@@ -11,8 +11,8 @@ for educational purposes
 - added contract logic, including methods for:
     - making a donation;
     - transferring from the contract balance specified amount to the specified account (only for contract owner);
-    - get list of participants (contributors);
-    - get the donation amount of the specified account
+    - getting list of participants (contributors);
+    - getting the donation amount of the specified account;
     
 - added unit tests
 - added solidity-coverage:
